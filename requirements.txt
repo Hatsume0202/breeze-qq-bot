@@ -1,0 +1,7 @@
+# 核心依赖（尽量少）
+websockets>=12.0
+httpx>=0.27
+python-dotenv>=1.0
+
+# 可选：mp3 -> silk 转码工具，无法 pip 安装时请看 README「安装 pilk」
+# pilk>=0.2.3

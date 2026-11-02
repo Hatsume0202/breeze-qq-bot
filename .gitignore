@@ -1,0 +1,19 @@
+# 本地配置与密钥
+.env
+.env.local
+
+# 运行产物
+logs/
+data/
+*.mp3
+*.silk
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.idea/
+.vscode/
+.DS_Store
